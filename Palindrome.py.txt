@@ -1,0 +1,6 @@
+input_str=input("enter sting")
+str_to_list=list(input_str)
+rev_list=str_to_list[::-1]
+#print (rev_list)
+if rev_list==str_to_list:
+  print(rev_list)
